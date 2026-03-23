@@ -37,6 +37,19 @@ The following visualizations compare actual passenger trends with forecasted val
 - pmdarima
 - Matplotlib
 
+  ## Power BI Dashboard
+
+A Power BI dashboard complements the forecasting analysis by providing interactive insights into passenger trends.
+
+The dashboard includes:
+
+- Passenger trends over time  
+- Comparison with historical baseline (2019)  
+- Key performance indicators (KPIs)  
+- Interactive filters for deeper analysis  
+
+> Note: Dashboard supports analytical exploration and enhances decision-making through visual insights.
+
 ## Files
 - `forecast.py` - forecasting code
 - `passenger_forcasting_report.pdf` - final report
