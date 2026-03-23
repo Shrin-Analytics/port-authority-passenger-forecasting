@@ -14,6 +14,15 @@ This project represents Phase-2 of a larger data analytics project and focuses o
 ## Results
 Exponential Smoothing performed better than ARIMA based on both MAE and RMSE.
 
+## Forecast Visualizations
+
+### Exponential Smoothing Forecast
+![Exponential Forecast](exp_forecast.png)
+
+### ARIMA Forecast
+![ARIMA Forecast](arima_forecast.png)
+
+
 ## Key Insights
 - Passenger demand shows a steady upward trend
 - Seasonal variation was not strong enough to improve model accuracy significantly
