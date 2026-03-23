@@ -12,9 +12,11 @@ This project represents Phase-2 of a larger data analytics project and focuses o
 - RMSE (Root Mean Squared Error)
 
 ## Results
-Exponential Smoothing performed better than ARIMA based on both MAE and RMSE.
+Exponential Smoothing outperformed ARIMA in terms of both MAE and RMSE, indicating better predictive accuracy for this dataset.
 
 ## Forecast Visualizations
+
+The following visualizations compare actual passenger trends with forecasted values using both models.
 
 ### Exponential Smoothing Forecast
 ![Exponential Forecast](exp_forecast.png)
